@@ -1,4 +1,4 @@
-# vagrant-vyatta
+# vagrant-vyatta is deprecated and will not be maintained. Vagrant plugin for VyOS support is moved to [vagrant-vyos](https://github.com/higebu/vagrant-vyos).
 [![Build Status](https://travis-ci.org/higebu/vagrant-vyatta.png)](https://travis-ci.org/higebu/vagrant-vyatta)
 [![Code Climate](https://codeclimate.com/repos/5302538e69568020f60027b2/badges/c5b01915845941764536/gpa.png)](https://codeclimate.com/repos/5302538e69568020f60027b2/feed)
 [![Gem Version](https://badge.fury.io/rb/vagrant-vyatta.png)](http://badge.fury.io/rb/vagrant-vyatta)
