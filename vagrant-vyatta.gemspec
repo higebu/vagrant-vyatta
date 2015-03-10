@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.version       = VagrantPlugins::GuestVyatta::VERSION
   spec.authors       = ["KUSAKABE Yuya"]
   spec.email         = ["yuya.kusakabe@gmail.com"]
-  spec.description   = "Vyatta Guest Support for Vagrant"
+  spec.description   = "[DEPRECATED] Vyatta Guest Support for Vagrant"
   spec.summary       = "A small gem that adds Vyatta guest support to vagrant."
   spec.homepage      = "https://github.com/higebu/vagrant-vyatta"
   spec.license       = "MIT"
